@@ -1,2 +1,9 @@
-# anatomy-grok
-Anatomy skill adapted for Grok Build / Grok: interactive isometric machine-as-explanation figures. Based on wheresryan22/anatomy.
+# Anatomy skill for Grok Build
+
+Adapted from https://github.com/wheresryan22/anatomy (MIT).
+
+Place this folder in `~/.grok/skills/anatomy/` or `.grok/skills/anatomy/` for Grok Build.
+
+Then `/anatomy explain how X works, interactive`
+
+The skill instructs Grok to clone the original kit when needed and follow the isometric machine-as-explanation workflow.
